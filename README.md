@@ -8,6 +8,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1) Import pandas module and import the required data set.
 2) Find the null values and count them.
 3) Count number of left values.
@@ -18,7 +19,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 8) Use criteria as entropy.
 9) From sklearn import metrics.
 10) Find the accuracy of our model and predict the require values.
-
+```
 ## Program:
 ```
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
